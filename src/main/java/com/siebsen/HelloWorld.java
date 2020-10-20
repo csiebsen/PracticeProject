@@ -2,7 +2,7 @@ package com.siebsen;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World.....Non Mirrored");
+        System.out.println("Hello World.....CJS");
         HelloWorld hw = new HelloWorld();
         hw.printSomething("some message number 3");
     }
